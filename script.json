@@ -3,7 +3,7 @@
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "EURO": "What? Go for a pound instead!",
+    "EURO": "What? Go for a pound instead! \n %[EURGBP](http://finviz.com/forex_charts.ashx?t=EURGBP&tf=d1) %[EURUSD](http://finviz.com/forex_charts.ashx?t=EURUSD&tf=d1) %[One random fact!](postback:random_fact)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
